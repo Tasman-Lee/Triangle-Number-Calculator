@@ -1,4 +1,5 @@
 # What does this program does:
+# - Identify and remove duplicating numbers in an array
 # - Filter out non-triangle numbers in an array
 # - Calculate the sum
 
